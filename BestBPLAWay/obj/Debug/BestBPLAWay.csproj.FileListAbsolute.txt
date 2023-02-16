@@ -1,0 +1,6 @@
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\bin\Debug\BestBPLAWay.dll
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\bin\Debug\BestBPLAWay.pdb
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\obj\Debug\BestBPLAWay.csproj.AssemblyReference.cache
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\obj\Debug\BestBPLAWay.csproj.CoreCompileInputs.cache
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\obj\Debug\BestBPLAWay.dll
+C:\Users\UserPc\Desktop\3course\2sem\Operations-CourseWork\ConsoleBPLA\BestBPLAWay\obj\Debug\BestBPLAWay.pdb

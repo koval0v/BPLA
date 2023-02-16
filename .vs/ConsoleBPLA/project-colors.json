@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7fe0063-fd53-40f6-867e-ca676bcf5261": {
+      "ProjectGuid": "d7fe0063-fd53-40f6-867e-ca676bcf5261",
+      "DisplayName": "ConsoleBPLA",
+      "ColorIndex": 0
+    },
+    "964f4777-9c69-49a2-8348-a456f4fcb925": {
+      "ProjectGuid": "964f4777-9c69-49a2-8348-a456f4fcb925",
+      "DisplayName": "BestBPLAWay",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
